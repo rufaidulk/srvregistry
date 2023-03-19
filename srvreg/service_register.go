@@ -1,11 +1,11 @@
-package main
+package srvreg
 
 import (
-	"constant"
 	"fmt"
 	"time"
 
 	"github.com/go-zookeeper/zk"
+	"github.com/rufaidulk/srvregistry/constant"
 )
 
 var zookeeper *zk.Conn
