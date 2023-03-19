@@ -1,8 +1,8 @@
-package srvregistry
+package main
 
 import (
+	"constant"
 	"fmt"
-	"srvregistry/constant"
 	"time"
 
 	"github.com/go-zookeeper/zk"
