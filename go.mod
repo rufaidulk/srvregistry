@@ -1,4 +1,4 @@
-module srvregistry
+module github.com/rufaidulk/srvregistry
 
 go 1.18
 
